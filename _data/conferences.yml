@@ -1,6 +1,16 @@
 ---
    
 # Security and Privacy
+- name: EuroUSEC
+  year: 2024
+  date: "September 30 – October 1"
+  description: The 2024 European Symposium on Usable Security
+  link: https://eurousec24.kau.se/
+  deadline:
+    - "2024-05-27 23:59"
+  place: Karlstad, Sweden
+  tags: [SEC, CONF]
+
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
