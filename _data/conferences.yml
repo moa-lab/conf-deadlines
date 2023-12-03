@@ -113,65 +113,6 @@
   place: Seoul, Korea
   tags: [SEC, PRIV, CONF]
 
-- name: SOUPS
-  description: Usenix Symposium on Usable Security and Privacy
-  year: 2023
-  link: https://www.usenix.org/conference/soups2023
-  deadline: ["2023-02-16 23:59"]
-  comment: Collocated with Usenix Security; Paper registration due Feb 10 AoE.
-  date: August 6–8
-  place: Anaheim, CA, USA.
-  tags: [SEC, PRIV, CONF]
-
-- name: FC
-  description: Financial Cryptography and Data Security
-  year: 2024
-  link: https://fc24.ifca.ai
-  deadline: ["2023-09-20 23:59"]
-  date: March 4-8
-  place: Willemstad, Curacao
-  tags: [SEC, CRYPTO, CONF]
-
-- name: Euro S&P
-  description: IEEE European Symposium on Security and Privacy
-  year: 2024
-  comment: Abstract registration October 30th AoE (firm).
-  link: https://eurosp2024.ieee-security.org/
-  deadline: ["2023-11-02 23:59"]
-  date: "July 8 - 12"
-  place: Vienna, Austria 
-  tags: [SEC, PRIV, CONF]
-
-- name: ISC
-  description: Information Security Conference
-  year: 2023
-  link: https://isc23.cs.rug.nl
-  deadline: ["2023-08-03 23:59"]
-  date: "November 15 - 17"
-  place: Groningen, Netherlands
-  tags: [SEC, PRIV, CONF]
-  comment: Extended deadline
-  
-- name: TrustCom
-  description: International Conference on Trust, Security and Privacy in Computing and Communications
-  year: 2023
-  link: https://hpcn.exeter.ac.uk/trustcom2023/
-  deadline: ["2023-07-01 23:59"]
-  date: "November 1 - 3"
-  place: Exeter, UK
-  tags: [SEC, PRIV, CONF]
-  
-- name: FPS
-  year: 2023
-  date: "Dec 11–13"
-  description: The 16th Foundations and Practice of Security Symposium
-  link: https://www.fps-2023.com
-  deadline: ["2023-09-15 23:59"]
-  place: Bordeaux, France
-  tags: [SEC, PRIV, CRYPTO, CONF]
-
-# Privacy
-
 - name: PETS
   description: Privacy Enhancing Technologies Symposium
   year: 2024
@@ -187,27 +128,6 @@
   place: Bristol, UK
   tags: [PRIV, CONF]
 
-# Networks and systems, applications
-
-- name: RAID
-  description: International Symposium on Research in Attacks, Intrusions and Defenses
-  year: 2023
-  link: https://raid2023.org
-  deadline: ["2023-03-29 23:59"]
-  date: October 16-18
-  place: Hong Kong, China
-  tags: [SEC, CONF]
-
-- name: ACSAC
-  description: Annual Computer Security Applications Conference
-  year: 2023
-  link: https://www.acsac.org/2023/
-  deadline: ["2023-05-26 23:59"]
-  comment: Abstract deadline on May 22nd
-  date: Dec 4-8
-  place: Austin, TX, USA
-  tags: [SEC, CONF]
-
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
   year: 2024
@@ -217,17 +137,6 @@
   date: June 24-27
   place: Brisbane, Australia
   tags: [SEC, CONF]
-
-- name: ACNS
-  description: International Conference on Applied Cryptography and Network Security
-  year: 2024
-  link: https://wp.nyu.edu/acns2024/
-  deadline: 
-    - "2023-07-20 23:59"
-    - "2023-10-20 23:59"
-  date: March 5-8
-  place: Abu Dhabi, UAE
-  tags: [CRYPTO, SEC, CONF]
 
 - name: DIMVA
   description: The Conference on Detection of Intrusions and Malware & Vulnerability Assessment
