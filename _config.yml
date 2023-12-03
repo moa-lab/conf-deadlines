@@ -1,13 +1,13 @@
-title: Security and Privacy Conference Deadlines
+title: Security and Privacy Conference Deadlines for MoA LAB
 description: Countdowns to top Security and Privacy conference deadlines.
-author: Bogdan Kulynych
+author: Doowon Kim
 
-domain: "moa-lab.github.io/conf-deadlines"
-baseurl: ""
+domain: "moa-lab.net"
+baseurl: "/paper-deadlines"
 
-twitter_username: hiddenmarkov
+twitter_username: 
 github_username: moa-lab
-github_repo: conf-deadlines
+github_repo: paper-deadlines
 
 markdown: kramdown
 
