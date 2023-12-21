@@ -1,6 +1,27 @@
 ---
    
 # Security and Privacy
+- name: SOUPS
+  year: 2024
+  date: "August 11 - August 13"
+  description: Symposium on Usable Privacy and Security
+  link: https://www.usenix.org/conference/soups2024
+  deadline:
+    - "2024-02-08 23:59"
+  place: PHILADELPHIA, PA, USA
+  tags: [SEC, CONF]
+
+- name: ICSE
+  year: 2025
+  date: "April 26 - May 5"
+  description: International Conference on Software Engineering (ICSE)
+  link: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
+  deadline:
+    - "2024-03-15 23:59"
+    - "2024-07-26 23:59"
+  place: Ottawa, Ontario, Canada
+  tags: [SE, CONF]
+
 - name: EuroUSEC
   year: 2024
   date: "September 30 – October 1"
